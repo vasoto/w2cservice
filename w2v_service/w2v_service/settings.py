@@ -29,7 +29,7 @@ SECRET_KEY = 'zdvhaovipl#ybxeufdxobn#x6xua93g^!u7s#$l0p6b@k!zgy6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
