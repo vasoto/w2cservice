@@ -23,6 +23,8 @@ python manage.py migrate
 python runserver
 ```
 
+Or use the provided `Dockerfile`.
+
 ## Endpoints
 ### /hyperparameters
 #### POST
