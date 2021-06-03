@@ -25,7 +25,7 @@ google-cloud-storage==1.38.0
 google-resumable-media==0.5.0
 googleapis-common-protos==1.51.0
 idna==2.10
-importlib-metadata==3.3.0
+importlib-metadata==4.4.0
 ipykernel==5.5.4
 ipython==7.19.0
 ipython-genutils==0.2.0
