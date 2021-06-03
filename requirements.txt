@@ -19,7 +19,7 @@ docutils==0.17.1
 entrypoints==0.3
 gensim==4.0.1
 google-api-core==1.28.0
-google-auth==1.14.1
+google-auth==1.30.1
 google-cloud-core==1.6.0
 google-cloud-storage==1.38.0
 google-resumable-media==0.5.0
