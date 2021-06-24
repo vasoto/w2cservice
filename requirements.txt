@@ -4,7 +4,7 @@ backcall==0.2.0
 bleach==3.3.0
 boto==2.49.0
 boto3==1.17.98
-botocore==1.20.98
+botocore==1.20.99
 cachetools==4.2.2
 certifi==2021.5.30
 cffi==1.14.5
