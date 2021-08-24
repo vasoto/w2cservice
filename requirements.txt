@@ -4,7 +4,7 @@ backcall==0.2.0
 bleach==4.0.0
 boto==2.49.0
 boto3==1.18.13
-botocore==1.21.23
+botocore==1.21.27
 cachetools==4.2.2
 certifi==2021.5.30
 cffi==1.14.6
@@ -37,7 +37,7 @@ jmespath==0.10.0
 joblib==1.0.1
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client==6.1.12
+jupyter-client==7.0.1
 jupyter-console==6.4.0
 jupyter-core==4.7.1
 MarkupSafe==2.0.1
