@@ -52,7 +52,7 @@ pandocfilters==1.4.3
 parso==0.8.2
 pickleshare==0.7.5
 prometheus-client==0.11.0
-prompt-toolkit==3.0.19
+prompt-toolkit==3.0.20
 protobuf
 psutil==5.8.0
 pyasn1==0.4.8
