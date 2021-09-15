@@ -18,7 +18,7 @@ djangorestframework==3.12.4
 docutils==0.17.1
 entrypoints==0.3
 gensim==4.1.1
-google-api-core==2.0.0
+google-api-core==2.0.1
 google-auth==2.0.1
 google-cloud-core==2.0.0
 google-cloud-storage==1.42.0
