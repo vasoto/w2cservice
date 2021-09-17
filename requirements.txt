@@ -37,7 +37,7 @@ jmespath==0.10.0
 joblib==1.0.1
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client==7.0.2
+jupyter-client==7.0.3
 jupyter-console==6.4.0
 jupyter-core==4.7.1
 MarkupSafe==2.0.1
