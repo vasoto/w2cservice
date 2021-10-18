@@ -24,7 +24,7 @@ google-cloud-core==2.1.0
 google-cloud-storage==1.42.3
 google-resumable-media==2.0.3
 googleapis-common-protos==1.53.0
-idna>=2.5,<3.0
+idna>=2.5,<4.0
 importlib-metadata<4; python_version < "3.8.0"
 importlib-metadata==4.8.1; python_version >= "3.8.0"
 ipykernel==6.4.1
