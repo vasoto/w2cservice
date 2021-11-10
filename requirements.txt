@@ -7,7 +7,7 @@ boto3==1.18.42
 botocore==1.21.57
 cachetools==4.2.4
 certifi==2021.10.8
-cffi==1.14.6
+cffi==1.15.0
 chardet==4.0.0
 colorama==0.4.4
 cryptography==35.0.0
@@ -72,7 +72,7 @@ requests==2.26.0
 rsa==4.7.2
 s3transfer==0.5.0
 scikit-learn==1.0
-scipy==1.7.1
+scipy==1.7.2
 Send2Trash==1.8.0
 six==1.16.0
 smart-open==5.2.1
@@ -83,7 +83,7 @@ tornado==6.1
 traitlets==5.1.0
 typed-ast==1.4.3
 typing-extensions==3.10.0.2
-uritemplate==3.0.1
+uritemplate==4.1.1
 urllib3==1.26.7
 wcwidth==0.2.5
 webencodings==0.5.1
@@ -91,4 +91,4 @@ widgetsnbextension==3.5.1
 win-inet-pton==1.1.0
 wincertstore==0.2
 yapf==0.31.0
-zipp==3.5.0
+zipp==3.6.0
