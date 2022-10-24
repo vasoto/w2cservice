@@ -91,4 +91,4 @@ widgetsnbextension==3.5.2
 win-inet-pton==1.1.0
 wincertstore==0.2
 yapf==0.32.0
-zipp==3.6.0
+zipp==3.10.0
