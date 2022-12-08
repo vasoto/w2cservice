@@ -6,7 +6,7 @@ boto==2.49.0
 boto3==1.20.30
 botocore==1.23.30
 cachetools==4.2.4
-certifi==2021.10.8
+certifi==2022.12.7
 cffi==1.15.0
 chardet==4.0.0
 colorama==0.4.4
