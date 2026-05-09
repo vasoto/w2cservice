@@ -58,7 +58,7 @@ psutil==5.8.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
-Pygments==2.10.0
+Pygments==2.15.1
 pyOpenSSL==21.0.0
 pyrsistent==0.18.0
 PySocks==1.7.1
