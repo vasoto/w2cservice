@@ -14,7 +14,7 @@ cryptography==35.0.0
 decorator==5.1.0
 defusedxml==0.7.1
 django>=3.0.7
-djangorestframework==3.12.4
+djangorestframework==3.14.0
 docutils==0.19
 entrypoints==0.3
 gensim==4.1.2
